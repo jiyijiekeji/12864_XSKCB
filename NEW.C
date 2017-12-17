@@ -372,7 +372,7 @@ void PageChange()
 {
     int Wei;
 	Wei=Sub&0x01;
-    if(Week==6)
+    if(Week==5)
 	{
 	    Week=0;
 	    Pd=16*Week+Wei;

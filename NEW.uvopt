@@ -196,10 +196,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>17</ColumnNumber>
+      <ColumnNumber>14</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>7</TopLine>
-      <CurrentLine>27</CurrentLine>
+      <TopLine>361</TopLine>
+      <CurrentLine>375</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\NEW.C</PathWithFileName>
       <FilenameWithoutPath>NEW.C</FilenameWithoutPath>
@@ -207,7 +207,7 @@
   </Group>
 
   <AlienFiles>
-    <PathWithFilename>C:\Users\dell\Desktop\C\ST7565.H</PathWithFilename>
+    <PathWithFilename>C:\Users\dell\Documents\GitHub\12864_XSKCB\ST7565.H</PathWithFilename>
     <TopLine>63</TopLine>
     <CurrentLine>63</CurrentLine>
     <Constant>0</Constant>
@@ -1577,9 +1577,9 @@
       <Documents>
         <Doc>
           <Name>.\NEW.C</Name>
-          <ColumnNumber>17</ColumnNumber>
-          <TopLine>7</TopLine>
-          <CurrentLine>27</CurrentLine>
+          <ColumnNumber>14</ColumnNumber>
+          <TopLine>361</TopLine>
+          <CurrentLine>375</CurrentLine>
         </Doc>
         <Doc>
           <Name>ST7565.H</Name>

@@ -1,4 +1,4 @@
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 1   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 1   
 
 
 C51 COMPILER V9.01, COMPILATION OF MODULE NEW
@@ -62,7 +62,7 @@ line level    source
   53          /*--  宋体12;  此字体下对应的点阵为：宽x高=16x16   --*/
   54          0x00,0x04,0x04,0xC4,0x44,0x5F,0x44,0x44,0x44,0xC4,0x44,0x5F,0x44,0x44,0x44,0x04,
   55          0x00,0x00,0x00,0x07,0x08,0x10,0x08,0x00,0x00,0xFF,0x00,0x00,0x00,0x00,0x00,0x00,
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 2   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 2   
 
   56          
   57          /*--  文字:  基  --*/
@@ -126,7 +126,7 @@ line level    source
  115          0x00,0x01,0x01,0x01,0x3E,0x42,0x82,0x42,0x02,0x07,0x1A,0x22,0x42,0x80,0x01,0x01,
  116          
  117          /*--  文字:  热  --*/
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 3   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 3   
 
  118          /*--  宋体12;  此字体下对应的点阵为：宽x高=16x16   --*/
  119          0x00,0x00,0x00,0xF8,0x08,0x08,0xFF,0x48,0x08,0x00,0x48,0x48,0xFF,0x88,0x08,0x08,
@@ -190,7 +190,7 @@ line level    source
  177          /*--  文字:  李  --*/
  178          /*--  宋体12;  此字体下对应的点阵为：宽x高=16x16   --*/
  179          0x00,0x80,0x84,0x44,0x44,0x24,0x14,0x0C,0xFF,0x0C,0x14,0x24,0x44,0x44,0x84,0x80,
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 4   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 4   
 
  180          0x00,0x08,0x08,0x08,0x08,0x09,0x0B,0x0D,0x79,0x89,0x49,0x09,0x08,0x08,0x08,0x08,
  181          
@@ -254,7 +254,7 @@ line level    source
  239          0x00,0x00,0x88,0x88,0xFF,0x88,0x9C,0x20,0x02,0xF2,0x92,0x92,0xFE,0x92,0x92,0xF2,
  240          0x00,0x48,0x48,0x48,0x4F,0x48,0x48,0x48,0x40,0x47,0x44,0x44,0x5F,0x24,0x54,0x8F,
  241          
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 5   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 5   
 
  242          /*--  文字:  余  --*/
  243          /*--  宋体12;  此字体下对应的点阵为：宽x高=16x16   --*/
@@ -318,7 +318,7 @@ line level    source
  301          /*--  文字:  8  --*/
  302          /*--  宋体12;  此字体下对应的点阵为：宽x高=8x16   --*/
  303          0x00,0x70,0x88,0x08,0x08,0x88,0x70,0x00,0x00,0x1C,0x22,0x21,0x21,0x22,0x1C,0x00,
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 6   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 6   
 
  304          
  305          /*--  文字:  9  --*/
@@ -382,7 +382,7 @@ line level    source
  363   2                  Delay10ms(1);
  364   2                      if(SubC==0);
  365   2                      {
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 7   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 7   
 
  366   3                          Sub++;
  367   3                      }
@@ -393,7 +393,7 @@ line level    source
  372          {
  373   1          int Wei;
  374   1              Wei=Sub&0x01;
- 375   1          if(Week==6)
+ 375   1          if(Week==5)
  376   1              {
  377   2                  Week=0;
  378   2                  Pd=16*Week+Wei;
@@ -446,7 +446,7 @@ line level    source
  425   2                                break;
  426   2              case 0x10:WRITE_16(0,7,0);
  427   2                        WRITE_16(0,6,2);
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 8   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 8   
 
  428   2                        WRITE_16(0,5,6);
  429   2                        WRITE_16(0,4,1);
@@ -510,7 +510,7 @@ line level    source
  487   2                        WRITE_16(0,3,7);
  488   2                        WRITE_16(1,7,10);
  489   2                        WRITE_16(1,6,11);
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 9   
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 9   
 
  490   2                        WRITE_16(1,5,12);
  491   2                        WRITE_16(2,7,32);
@@ -574,7 +574,7 @@ line level    source
  549   2                        WRITE_16(2,6,41);
  550   2                                WRITE_16(2,5,48);
  551   2                        WRITE_16(3,7,8);
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 10  
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 10  
 
  552   2                        WRITE_16(3,6,9);
  553   2                        WRITE_8(3,11,13);
@@ -638,7 +638,7 @@ line level    source
  611   2                      WriteCmd(page+a);
  612   2                      for(i = 0;  i < 8; i ++ )
  613   2                      {
-C51 COMPILER V9.01   NEW                                                                   12/17/2017 18:13:57 PAGE 11  
+C51 COMPILER V9.01   NEW                                                                   12/18/2017 00:39:52 PAGE 11  
 
  614   3                              WriteData(table1[p][jj++]);     
  615   3                      }
